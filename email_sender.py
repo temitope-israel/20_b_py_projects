@@ -13,8 +13,7 @@ email_sender = sender
 email_password = password
 
 # Use any email you like
-# email_receiver = 'hakamam415@elixirsd.com'
-email_receiver = 'topisco1@hotmail.com'
+email_receiver = 'hakamam415@elixirsd.com'
 
 
 subject = "FIRST EMAIL APP USING PYTHON!"
